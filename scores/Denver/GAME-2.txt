@@ -1,0 +1,15 @@
+Denver Stuprators	GAME 2
+Blake Griffin	28
+Thaddeus Young	32
+Andrew Wiggins	28
+Gorgui Dieng	30
+Joakim Noah	20
+Kent Bazemore	12
+Andre Iguodala	15
+Boris Diaw	4
+Kris Dunn	8
+Joel Embiid	17
+Patty Mills	8
+Malachi Richardson	0
+HOME/AWAY	5
+FINAL SCORE	203

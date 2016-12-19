@@ -1,0 +1,15 @@
+Salt Lake City Beards	GAME 3
+Klay Thompson	21
+Marco Belinelli	8
+Ramon Sessions	13
+Tyus Jones	10
+Anthony Davis	25
+Cody Zeller	18
+Trey Lyles	12
+Nikola Mirotic	29
+Denzel Valentine	4
+Omri Casspi	3
+Karl-Anthony Towns	24
+Al Jefferson	11
+HOME/AWAY	5
+FINAL SCORE	176

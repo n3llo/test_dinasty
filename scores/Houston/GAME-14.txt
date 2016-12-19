@@ -1,0 +1,15 @@
+Houston Foxes	GAME 14
+Chris Paul	29
+Kevin Love	43
+Ricky Rubio	7
+Amir Johnson	7
+Justin Holiday	15
+Patrick Patterson	22
+Allen Crabbe	11
+Patrick Beverley	11
+Mike Muscala	11
+Salah Mejri	6
+Tyler Ennis	0
+Roy Hibbert	13
+HOME/AWAY	0
+FINAL SCORE	169

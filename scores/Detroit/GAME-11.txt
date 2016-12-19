@@ -1,0 +1,15 @@
+Detroit Goodfellaz	GAME 11
+James Harden	30
+Pau Gasol	23
+Timofey Mozgov	10
+Kyle Lowry	33
+Jamal Crawford	22
+Lou Williams	23
+Jerami Grant	20
+Mirza Teletovic	4
+Derrick Williams	5
+Richaun Holmes	16
+Gerald Green	8
+Henry Ellenson	0
+HOME/AWAY	5
+FINAL SCORE	195

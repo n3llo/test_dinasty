@@ -1,0 +1,15 @@
+Houston Foxes	GAME 8
+Chris Paul	30
+Kevin Love	29
+Will Barton	0
+Amir Johnson	5
+Justin Holiday	17
+Patrick Patterson	16
+Allen Crabbe	6
+Doug McDermott	9
+Tyler Ennis	6
+Mike Muscala	17
+Roy Hibbert	12
+Salah Mejri	10
+HOME/AWAY	0
+FINAL SCORE	152

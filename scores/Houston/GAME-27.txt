@@ -1,0 +1,15 @@
+Houston Foxes	GAME 27
+Chris Paul	0
+Reggie Jackson	25
+Ricky Rubio	0
+Allen Crabbe	16
+Eric Gordon	0
+Kevin Love	0
+Justin Holiday	0
+J.J. Redick	0
+Patrick Patterson	0
+Mike Muscala	0
+Will Barton	0
+Doug McDermott	0
+HOME/AWAY	5
+FINAL SCORE	46

@@ -1,0 +1,15 @@
+New York Ruckers	GAME 11
+Rajon Rondo	0
+Dwyane Wade	31
+George Hill	0
+Tim Frazier	17
+Carmelo Anthony	29
+Aaron Gordon	15
+Luol Deng	15
+Jaylen Brown	5
+Sam Dekker	14
+DeAndre Jordan	20
+Pascal Siakam	19
+Shabazz Napier	0
+HOME/AWAY	5
+FINAL SCORE	170

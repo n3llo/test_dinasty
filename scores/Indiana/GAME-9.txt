@@ -1,0 +1,15 @@
+Indiana BadBoys	GAME 9
+Stephen Curry	42
+Damian Lillard	7
+Buddy Hield	13
+Terry Rozier	20
+K.J. McDaniels	1
+C.J. Miles	19
+Robert Covington	16
+Rondae Hollis-Jefferson	36
+Myles Turner	13
+Dwight Howard	24
+Dario Saric	18
+Mario Hezonja	0
+HOME/AWAY	5
+FINAL SCORE	213

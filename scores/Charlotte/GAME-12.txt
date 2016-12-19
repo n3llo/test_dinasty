@@ -1,0 +1,15 @@
+Charlotte Bobgoats	GAME 12
+John Wall	42
+Hassan Whiteside	40
+Kemba Walker	37
+Marc Gasol	17
+Tobias Harris	30
+Otto Porter	18
+Eric Gordon	22
+Gary Harris	0
+J.J. Redick	31
+Hollis Thompson	10
+Tony Allen	17
+Isaiah Canaan	9
+HOME/AWAY	5
+FINAL SCORE	269

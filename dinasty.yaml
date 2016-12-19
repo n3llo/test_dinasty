@@ -1,0 +1,318 @@
+-
+    city: Philadelphia
+    nick: SweetKillaz
+    tabs: ' '
+    hn: 1
+    dv: atl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Boston
+    nick: Crusaders
+    tabs: ' '
+    hn: 16
+    dv: atl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Tampa
+    nick: Hellraisers
+    tabs: ' '
+    hn: 6
+    dv: atl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Miami
+    nick: Godfathers
+    tabs: ' '
+    hn: 2
+    dv: atl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: New York
+    nick: Ruckers
+    tabs: ' '
+    hn: 20
+    dv: atl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Chicago
+    nick: BluesBrothers
+    tabs: ' '
+    hn: 14
+    dv: ctl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Charlotte
+    nick: Bobgoats
+    tabs: ' '
+    hn: 9
+    dv: ctl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Detroit
+    nick: Goodfellaz
+    tabs: ' '
+    hn: 10
+    dv: ctl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Indiana
+    nick: BadBoys
+    tabs: ' '
+    hn: 5
+    dv: ctl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Cleveland
+    nick: Cadavaliers
+    tabs: ' '
+    hn: 11
+    dv: ctl
+    cf: est
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Houston
+    nick: Foxes
+    tabs: ' '
+    hn: 4
+    dv: mdw
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Salt Lake City
+    nick: Beards
+    tabs: ' '
+    hn: 15
+    dv: mdw
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Denver
+    nick: Stuprators
+    tabs: ' '
+    hn: 12
+    dv: mdw
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Dallas
+    nick: Snipers
+    tabs: ' '
+    hn: 19
+    dv: mdw
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Memphis
+    nick: Pelvis
+    tabs: ' '
+    hn: 17
+    dv: mdw
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Los Angeles
+    nick: Knights
+    tabs: ' '
+    hn: 8
+    dv: pac
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Las Vegas
+    nick: Samurai
+    tabs: ' '
+    hn: 3
+    dv: pac
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: San Jose
+    nick: Underwood
+    tabs: ' '
+    hn: 13
+    dv: pac
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Phoenix
+    nick: Hyperstars
+    tabs: ' '
+    hn: 7
+    dv: pac
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''
+    opp_ppg: ''
+
+-
+    city: Seattle
+    nick: Antimafia
+    tabs: ' '
+    hn: 18
+    dv: pac
+    cf: wst
+    scores: []
+    opp_pts: []
+    results: []
+    wins: ''
+    losses: ''
+    w_pct: ''
+    ppg: ''

@@ -1,0 +1,15 @@
+San Jose Underwood	GAME 3
+LaMarcus Aldridge	19
+Jonas Valanciunas	21
+D'Angelo Russell	29
+Alex Len	19
+Bobby Portis	7
+Matthew Dellavedova	15
+Patrick McCaw	0
+Tim Hardaway Jr.	6
+Brandon Ingram	16
+Noah Vonleh	4
+Tyler Zeller	8
+Michael Beasley	10
+HOME/AWAY	5
+FINAL SCORE	155

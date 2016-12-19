@@ -1,0 +1,91 @@
+Game 1	vs	Memphis	L	L	N	L	N	232	259
+Game 2	at	Seattle	W	W	N	N	W	197	194
+Game 3	at	Dallas	W	W	N	W	N	163	151
+Game 4	at	New York	L	N	L	N	L	147	205
+Game 5	vs	Miami	W	N	W	N	W	182	103
+Game 6	vs	Las Vegas	L	L	N	N	L	149	183
+Game 7	vs	Philadelphia	L	N	L	N	L	162	195
+Game 1	vs	Memphis	L	L	N	L	N	232	259
+Game 2	at	Seattle	W	W	N	N	W	197	194
+Game 3	at	Dallas	W	W	N	W	N	163	151
+Game 4	at	New York	L	N	L	N	L	147	205
+Game 5	vs	Miami	W	N	W	N	W	182	103
+Game 6	vs	Las Vegas	L	L	N	N	L	149	183
+Game 7	vs	Philadelphia	L	N	L	N	L	162	195
+Game 1	vs	Memphis	L	L	N	L	N	232	259
+Game 2	at	Seattle	W	W	N	N	W	197	194
+Game 3	at	Dallas	W	W	N	W	N	163	151
+Game 4	at	New York	L	N	L	N	L	147	205
+Game 5	vs	Miami	W	N	W	N	W	182	103
+Game 6	vs	Las Vegas	L	L	N	N	L	149	183
+Game 7	vs	Philadelphia	L	N	L	N	L	162	195
+Game 8	at	Indiana	L	N	L	N	L	152	235
+Game 9	at	Tampa	L	N	L	N	L	129	213
+Game 1	vs	Memphis	L	L	N	L	N	232	259
+Game 2	at	Seattle	W	W	N	N	W	197	194
+Game 3	at	Dallas	W	W	N	W	N	163	151
+Game 4	at	New York	L	N	L	N	L	147	205
+Game 5	vs	Miami	W	N	W	N	W	182	103
+Game 6	vs	Las Vegas	L	L	N	N	L	149	183
+Game 7	vs	Philadelphia	L	N	L	N	L	162	195
+Game 8	at	Indiana	L	N	L	N	L	152	235
+Game 9	at	Tampa	L	N	L	N	L	174	234
+Game 10	at	Phoenix	L	L	N	N	L	195	234
+Game 11	at	Los Angeles	L	L	N	N	L	176	211
+Game 11	at	Los Angeles	L	L	N	N	L	176	211
+Game 12	at	Charlotte	L	N	L	N	L	73	107
+Game 1	vs	Memphis	L	L	N	L	N	232	259
+Game 2	at	Seattle	W	W	N	N	W	197	194
+Game 3	at	Dallas	W	W	N	W	N	163	151
+Game 4	at	New York	L	N	L	N	L	147	205
+Game 5	vs	Miami	W	N	W	N	W	182	103
+Game 6	vs	Las Vegas	L	L	N	N	L	149	183
+Game 7	vs	Philadelphia	L	N	L	N	L	162	195
+Game 8	at	Indiana	L	N	L	N	L	152	235
+Game 9	at	Tampa	L	N	L	N	L	174	234
+Game 10	at	Phoenix	L	L	N	N	L	195	234
+Game 11	at	Los Angeles	L	L	N	N	L	180	211
+Game 12	at	Charlotte	L	N	L	N	L	145	269
+Game 13	at	Detroit	L	N	L	N	L	184	185
+Game 14	at	Cleveland	L	N	L	N	L	169	289
+Game 15	at	Denver	L	L	N	L	N	194	222
+Game 16	at	San Jose	L	L	N	N	L	153	157
+Game 17	at	Chicago	L	N	L	N	L	133	135
+Game 18	at	Salt Lake City	L	L	N	L	N	167	255
+Game 19	at	Boston	W	N	W	N	W	221	152
+Game 20	at	Memphis	W	W	N	W	N	215	212
+Game 20	at	Memphis	W	W	N	W	N	215	212
+Game 21	vs	Seattle	W	W	N	N	W	209	182
+Game 22	vs	Dallas	W	W	N	W	N	213	192
+Game 23	vs	New York	W	N	W	N	W	199	180
+Game 24	at	Miami	W	N	W	N	W	185	103
+Game 25	at	Las Vegas	W	W	N	N	W	198	191
+Game 26	at	Philadelphia	W	N	W	N	W	89	81
+Game 27	vs	Indiana	W	N	W	N	W	46	26
+Game 1	vs	Memphis	L	L	N	L	N	232	259
+Game 2	at	Seattle	W	W	N	N	W	197	194
+Game 3	at	Dallas	W	W	N	W	N	163	151
+Game 4	at	New York	L	N	L	N	L	147	205
+Game 5	vs	Miami	W	N	W	N	W	182	103
+Game 6	vs	Las Vegas	L	L	N	N	L	149	183
+Game 7	vs	Philadelphia	L	N	L	N	L	162	195
+Game 8	at	Indiana	L	N	L	N	L	152	235
+Game 9	at	Tampa	L	N	L	N	L	174	234
+Game 10	at	Phoenix	L	L	N	N	L	195	234
+Game 11	at	Los Angeles	L	L	N	N	L	180	211
+Game 12	at	Charlotte	L	N	L	N	L	145	269
+Game 13	at	Detroit	L	N	L	N	L	184	185
+Game 14	at	Cleveland	L	N	L	N	L	169	289
+Game 15	at	Denver	L	L	N	L	N	194	222
+Game 16	at	San Jose	L	L	N	N	L	153	157
+Game 17	at	Chicago	L	N	L	N	L	133	135
+Game 18	at	Salt Lake City	L	L	N	L	N	167	255
+Game 19	at	Boston	W	N	W	N	W	221	152
+Game 20	at	Memphis	W	W	N	W	N	215	212
+Game 21	vs	Seattle	W	W	N	N	W	209	182
+Game 22	vs	Dallas	W	W	N	W	N	213	192
+Game 23	vs	New York	W	N	W	N	W	199	180
+Game 24	at	Miami	W	N	W	N	W	185	103
+Game 25	at	Las Vegas	W	W	N	N	W	198	191
+Game 26	at	Philadelphia	W	N	W	N	W	89	81
+Game 27	vs	Indiana	W	N	W	N	W	46	26

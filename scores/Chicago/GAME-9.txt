@@ -1,0 +1,15 @@
+Chicago BluesBrothers	GAME 9
+Draymond Green	29
+Isaiah Thomas	27
+Jahlil Okafor	25
+Joe Johnson	7
+Harrison Barnes	24
+Jeff Green	9
+Kyle Korver	19
+Cory Joseph	2
+Brandon Jennings	14
+Dragan Bender	-1
+Taurean Prince	3
+Cristiano Felicio	0
+HOME/AWAY	0
+FINAL SCORE	159

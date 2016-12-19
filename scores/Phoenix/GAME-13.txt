@@ -1,0 +1,15 @@
+Phoenix Hyperstars	GAME 13
+C.J. McCollum	29
+Trey Burke	2
+Dante Exum	21
+Joe Harris	13
+Courtney Lee	24
+Jimmy Butler	28
+LeBron James	54
+Jarell Martin	-1
+Brandon Bass	0
+David West	17
+Andre Drummond	20
+Andrew Bogut	0
+HOME/AWAY	5
+FINAL SCORE	213

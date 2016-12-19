@@ -1,0 +1,15 @@
+Dallas Snipers	GAME 15
+Al Horford	31
+Rudy Gobert	16
+Danilo Gallinari	0
+Serge Ibaka	10
+Trevor Ariza	17
+Marcus Smart	22
+Wes Matthews	8
+Devin Booker	32
+Tyler Ulis	5
+Domantas Sabonis	10
+Wesley Johnson	3
+Juan Hernangomez	19
+HOME/AWAY	5
+FINAL SCORE	175

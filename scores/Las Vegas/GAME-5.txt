@@ -1,0 +1,15 @@
+Las Vegas Samurai	GAME 5
+Russell Westbrook	33
+Goran Dragic	24
+Jeff Teague	25
+Taj Gibson	16
+T.J. Warren	37
+Evan Turner	21
+Kyle O'Quinn	14
+Dwight Powell	21
+Willie Reed	2
+Nemanja Bjelica	-1
+Willie Cauley-Stein	0
+Chandler Parsons	0
+HOME/AWAY	5
+FINAL SCORE	198

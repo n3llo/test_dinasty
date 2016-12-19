@@ -1,0 +1,15 @@
+Boston Crusaders	GAME 15
+Brook Lopez	24
+Victor Oladipo	22
+Kyrie Irving	44
+Evan Fournier	34
+Jusuf Nurkic	8
+John Henson	32
+Frank Kaminsky	23
+Terrence Ross	20
+Jamal Murray	27
+Joseph Young	4
+Nick Young	19
+Donatas Motiejunas	0
+HOME/AWAY	0
+FINAL SCORE	253

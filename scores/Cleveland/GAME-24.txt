@@ -1,0 +1,15 @@
+Cleveland Cadavaliers	GAME 24
+Eric Bledsoe	41
+Bojan Bogdanovic	27
+DeMar DeRozan	34
+Andre Roberson	11
+Clint Capela	25
+David Lee	18
+Jordan Mickey	0
+Paul Millsap	46
+Kristaps Porzingis	47
+Steven Adams	28
+Robin Lopez	21
+Zaza Pachulia	0
+HOME/AWAY	5
+FINAL SCORE	303

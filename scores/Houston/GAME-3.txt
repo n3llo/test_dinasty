@@ -1,0 +1,15 @@
+Houston Foxes	GAME 3
+Chris Paul	37
+Kevin Love	21
+Ricky Rubio	0
+Will Barton	24
+Amir Johnson	7
+Roy Hibbert	0
+Patrick Patterson	19
+Allen Crabbe	19
+Doug McDermott	17
+Tyler Ennis	2
+Mike Muscala	13
+Justin Holiday	4
+HOME/AWAY	0
+FINAL SCORE	163

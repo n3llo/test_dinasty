@@ -1,0 +1,15 @@
+Memphis Pelvis	GAME 13
+Dewayne Dedmon	0
+Mason Plumlee	19
+Julius Randle	27
+Kelly Olynyk	6
+Giannis Antetokounmpo	45
+Kawhi Leonard	41
+Jeremy Lin	0
+Jordan Clarkson	25
+Bradley Beal	45
+Seth Curry	26
+Elfrid Payton	8
+Jonathon Simmons	0
+HOME/AWAY	5
+FINAL SCORE	247

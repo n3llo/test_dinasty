@@ -1,0 +1,15 @@
+Memphis Pelvis	GAME 3
+Jeremy Lin	24
+Jordan Clarkson	18
+Bradley Beal	19
+Elfrid Payton	20
+Jonathon Simmons	15
+Kawhi Leonard	29
+Giannis Antetokounmpo	34
+Julius Randle	33
+Kelly Oubre	0
+Mario Hezonja	5
+Jakob Poeltl	8
+Mason Plumlee	19
+HOME/AWAY	5
+FINAL SCORE	224

@@ -1,0 +1,15 @@
+Seattle Antimafia	GAME 4
+Wade Baldwin	10
+Ty Lawson	18
+Rodney Hood	25
+Nik Stauskas	11
+Dirk Nowitzki	14
+Jabari Parker	22
+Kevin Durant	30
+Kenneth Faried	14
+Terrence Jones	0
+James Ennis	9
+Kyle Anderson	5
+Marreese Speights	20
+HOME/AWAY	5
+FINAL SCORE	178

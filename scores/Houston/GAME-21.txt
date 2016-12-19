@@ -1,0 +1,15 @@
+Houston Foxes	GAME 21
+Chris Paul	37
+Reggie Jackson	0
+Ricky Rubio	16
+Justin Holiday	10
+Allen Crabbe	20
+Eric Gordon	22
+Kevin Love	45
+J.J. Redick	0
+Patrick Patterson	19
+Roy Hibbert	13
+Mike Muscala	14
+Salah Mejri	8
+HOME/AWAY	5
+FINAL SCORE	209
